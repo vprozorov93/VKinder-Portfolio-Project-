@@ -1,0 +1,11 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+decorator==5.1.1
+greenlet==1.1.2
+idna==3.3
+psycopg2==2.9.3
+requests==2.27.1
+self==2020.12.3
+SQLAlchemy==1.4.32
+urllib3==1.26.8
+vk-api==11.9.7

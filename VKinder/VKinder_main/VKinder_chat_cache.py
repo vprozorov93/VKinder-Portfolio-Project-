@@ -1,8 +1,4 @@
-chat_status = dict()
-user_search_params = dict()
 user_search_result = dict()
-like_table = dict()
-dislike_table = dict()
 relations = {1: 'не женат/не замужем',
              2: 'есть друг/есть подруга',
              3: 'помолвлен/помолвлена',
@@ -27,4 +23,3 @@ sex = {1: 'Девушку',
        'Девушку': 1,
        'Мужчину': 2,
        'Пол не важен': 0}
-for_grade = None
